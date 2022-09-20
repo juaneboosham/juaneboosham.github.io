@@ -4,11 +4,11 @@
 
 考试需要自己在官网报名，可以选择线上或线下进行。考试完当场就可以得到结果。并在5天内（其实也就一两天）会收到考试通过的正式邮件，也可以到官网查看证书及考试分数报告。
 
-![Untitled](AWS%20Certified%20Cloud%20Practitioner%20%E2%80%94%E2%80%94%E5%A4%87%E8%80%83%E5%BF%83%E5%BE%97%209822dbb905844439b2cc3954fdb1faee/Untitled.png)
+<img src="./p0.png" width="80%" style="margin-left:10%">
 
 邮件里也会提示，通过认证后会在credly收到一枚奖章。
 
-![Untitled](AWS%20Certified%20Cloud%20Practitioner%20%E2%80%94%E2%80%94%E5%A4%87%E8%80%83%E5%BF%83%E5%BE%97%209822dbb905844439b2cc3954fdb1faee/Untitled%201.png)
+<img src="./p1.png" width="80%" style="margin-left:10%">
 
 好了。下面来具体说说考试的情况吧，以及给近期打算考试的小伙伴一些备考的建议~
 
@@ -31,31 +31,33 @@ AWS Certified Cloud Practitioner（CLF-C01），AWS云从业认证，是AWS近�
 - 语言：英文。可选中文（考试过程中还可以切换英文题目）。
 - 通过条件：分数达到700分（总分1000），即正确率在70%以上就可以通过。（65道题大约答对45道题）
 
-![Untitled](AWS%20Certified%20Cloud%20Practitioner%20%E2%80%94%E2%80%94%E5%A4%87%E8%80%83%E5%BF%83%E5%BE%97%209822dbb905844439b2cc3954fdb1faee/Untitled%202.png)
+<img src="./p2.png" width="40%" style="margin-left:30%">
 
 考试题目大概会是这样的。
 
 ### 单选题
 
-![Untitled](AWS%20Certified%20Cloud%20Practitioner%20%E2%80%94%E2%80%94%E5%A4%87%E8%80%83%E5%BF%83%E5%BE%97%209822dbb905844439b2cc3954fdb1faee/Untitled%203.png)
+<img src="./p3.png" width="60%" style="margin-left:20%">
 
 ### 多选题
 
-![Untitled](AWS%20Certified%20Cloud%20Practitioner%20%E2%80%94%E2%80%94%E5%A4%87%E8%80%83%E5%BF%83%E5%BE%97%209822dbb905844439b2cc3954fdb1faee/Untitled%204.png)
+<img src="./p4.png" width="60%" style="margin-left:20%">
 
 # 3、备考
 
 ## 3.1 备考资料
 
-[https://aws.amazon.com/cn/certification/certified-cloud-practitioner/](https://aws.amazon.com/cn/certification/certified-cloud-practitioner/)
+[AWS Certified Cloud Practitioner 认证 | AWS 认证 | AWS](https://aws.amazon.com/cn/certification/certified-cloud-practitioner/)
 
 在AWS考试介绍里有相关的备考资料。
 
-![Untitled](AWS%20Certified%20Cloud%20Practitioner%20%E2%80%94%E2%80%94%E5%A4%87%E8%80%83%E5%BF%83%E5%BE%97%209822dbb905844439b2cc3954fdb1faee/Untitled%205.png)
+<img src="./p5.png" width="80%" style="margin-left:10%">
+
 
 还有几乎覆盖**所有考试内容**的AWS白皮书。
 
-![Untitled](AWS%20Certified%20Cloud%20Practitioner%20%E2%80%94%E2%80%94%E5%A4%87%E8%80%83%E5%BF%83%E5%BE%97%209822dbb905844439b2cc3954fdb1faee/Untitled%206.png)
+<img src="./p6.png" width="80%" style="margin-left:10%">
+
 
 第一个是AWS的概述及服务的介绍。介绍了AWS的各个服务。相当于**”课本“**。
 
@@ -72,7 +74,7 @@ AWS Certified Cloud Practitioner（CLF-C01），AWS云从业认证，是AWS近�
 > 来自：AWS Certified Cloud Practitioner (CLF-C01）考试指南
 > 
 > 
-> ![Untitled](AWS%20Certified%20Cloud%20Practitioner%20%E2%80%94%E2%80%94%E5%A4%87%E8%80%83%E5%BF%83%E5%BE%97%209822dbb905844439b2cc3954fdb1faee/Untitled%207.png)
+> <img src="./p7.png" width="80%" style="margin-left:10%">
 > 
 - 云概念领域（Cloud Concepts）：会问到AWS云计算的优势，云计算的良好架构。这部分在官方基础课程aws-cloud-practitioner-essentials基本都覆盖了。
 - 安全性与合规性（Security and Compliance）：考试的内容基本上也是在官方基础课程aws-cloud-practitioner-essentials有提及。重点会在AWS shared responsibility model，几大监控服务（Amazon CloudWatch、AWS CloudTrail、AWS Config），权限管理IAM。
@@ -103,7 +105,8 @@ AWS Certified Cloud Practitioner（CLF-C01），AWS云从业认证，是AWS近�
 
 youtube上会有很多刷题的视频。可以按需刷一刷。
 
-![Untitled](AWS%20Certified%20Cloud%20Practitioner%20%E2%80%94%E2%80%94%E5%A4%87%E8%80%83%E5%BF%83%E5%BE%97%209822dbb905844439b2cc3954fdb1faee/Untitled%208.png)
+<img src="./p8.png" width="80%" style="margin-left:10%">
+
 
 ## 3.3 备考总结
 
